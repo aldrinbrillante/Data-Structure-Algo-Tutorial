@@ -13,6 +13,7 @@
     Program Manager: Aldrin 
     Research Assistant: Shanelle
     Curriculum Assistant: Shanelle
+    Social Media Management & Content Creation: Aldrin & Shanelle
 
 
-Video Tutorials (COMING SOON) for each problem will be linked in each file
+### Video Tutorials (COMING SOON) for each problem will be linked in each file
